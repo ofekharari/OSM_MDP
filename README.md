@@ -9,5 +9,14 @@ The article Optimal Selfish Mining Strategies in Bitcoin presented an improvemen
 We took the modeling presented in the article and used the tools we created to solve the problem - to find an optimal strategy.
 
 
+## packages
+***
+* [MDP] : classes which belong to genric MDP problem like State and Action. also included the MDP calculator. 
+* [MDPinterfaces] :  interfaces which belong to genric MDP problem like State set, probability table and reward table.
+* [MyMDPimp] : implemention of the first MDP called Treasures and crocodiles. The world is NxN board and every cell is a state. The actions are regular directions 
+* [MyMDPmaze] : 
+* [MyMDPmonopoly] : 
+* [OSM] : 
+
 
 
